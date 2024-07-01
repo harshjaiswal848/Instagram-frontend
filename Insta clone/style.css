@@ -1,0 +1,175 @@
+main {
+    background-color: white;
+    height: 30vw;
+    width: 23vw;
+    border: 1px solid rgba(128, 128, 128, 0.37);
+    margin: 10px 500px;
+}
+
+.title img {
+    padding: 10px;
+    margin: -30px 2px;
+}
+
+input {
+    background-color: rgba(190, 177, 177, 0.055);
+    border: 1px solid rgba(128, 128, 128, 0.37);
+    margin: 0px 30px;
+    font-size: 12px;
+    line-height: 30px;
+    width: 250px;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+}
+
+.password {
+    margin-top: 5px;
+}
+
+.buttonn button {
+    width: 260px;
+    color: white;
+    margin: 5px;
+    padding: 8px 100px;
+    border: none;
+    border-radius: 6px;
+    background-color: #2fbbd9f7;
+    font-weight: 700;
+
+
+
+}
+
+.buttonn {
+    margin-top: 5px;
+    margin-left: 25px;
+
+}
+
+.or {
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    text-decoration: wavy;
+}
+
+.facebook a {
+    color: #385185;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    position: relative;
+    margin-top: -22px;
+}
+
+.forgot a {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    position: relative;
+    margin-top: 0px;
+    color: rgb(77, 74, 74);
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    margin-top: 20px;
+
+}
+
+.facebook img {
+    padding-left: 60px;
+    display: inline;
+}
+
+.main {
+    width: 23vw;
+    height: 5vw;
+    border: 1px solid rgba(128, 128, 128, 0.37);
+    margin: 10px 500px;
+    background-color: white;
+}
+
+.account {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.account a {
+    color: #1c9fbd;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    padding-right: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+.lastimage {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.iimage img {
+    height: 40px;
+    width: 151px;
+    padding-left: 531px;
+
+}
+.iimage{
+    margin-top: 15px;
+}
+
+.iimage1 img{
+    height: 40px;
+    width: 130px;
+    margin-left: 685px;
+   
+}
+.iimage1{
+    margin-top: -44px;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    text-align: center;
+    gap: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: grey;
+}
+.lang{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: grey;
+    padding-bottom: 80px;
+}
+.lang button{
+    background-color: rgba(white, white, white, 0.37);
+    opacity: 0.2;
+    color: grey;
+    border: 2px white;
+}
